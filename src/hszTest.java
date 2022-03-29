@@ -5,6 +5,7 @@
  */
 public class hszTest {
     public static void main(String[] args) {
+        System.out.println("Mar_29!");
         System.out.println("hello world!");
     }
 }
